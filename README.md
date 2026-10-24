@@ -172,3 +172,22 @@ reference them like this:
 
 If you find a bug or have suggestions, feel free to open an issue in the
 repository.
+## Screenshots
+
+### Dashboard
+![PayFlow Dashboard](screenshots/Screenshot%202026-10-24%20184949.png)
+
+### Payments
+![PayFlow Payments](screenshots/Screenshot%202026-10-24%20185105.png)
+
+### Payment and Transaction View
+![PayFlow Transaction View](screenshots/Screenshot%202026-10-24%20185136.png)
+
+### Refunds
+![PayFlow Refunds](screenshots/Screenshot%202026-10-24%20185159.png)
+
+### Payment Details
+![PayFlow Payment Details](screenshots/Screenshot%202026-10-24%20185220.png)
+
+### Additional Screen
+![PayFlow Additional Screen](screenshots/Screenshot%202026-10-24%20185243.png)
